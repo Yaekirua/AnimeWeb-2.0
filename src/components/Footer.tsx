@@ -36,12 +36,12 @@ function Footer() {
             <div className='mb-6 lg:mb-0'>
               <Link href='/' className='flex w-fit items-center'>
                 <p className='self-center whitespace-nowrap text-3xl font-medium'>
-                  Elyzen
+                  YaeKirua
                 </p>
               </Link>
               <p className='font-karla text-[0.7rem] lg:w-[520px] lg:text-[0.8rem]'>
                 This site does not store any files on our server, we are linked
-                to the media which is hosted on 3rd party services.
+                to the media which is hosted on 3rd party services.If there's bug simply contact +60164491531 on WhatsApp
               </p>
             </div>
             <div className='grid grid-cols-2 sm:grid-cols-2 sm:gap-6 lg:gap-16'>
@@ -100,9 +100,9 @@ function Footer() {
           <span className='ms-5 sm:text-center lg:ms-0'>
             © {year}{' '}
             <Link href='/' className='hover:text-white'>
-              Elyzen
+              YaeStream
             </Link>{' '}
-            | Made by <span className='font-bold'>codeblitz97</span>
+            | Made by <span className='font-bold'>YAEKIRUA</span>
           </span>
           <div className='mt-4 flex lg:mt-0 lg:justify-center'>
             <Link
